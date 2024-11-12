@@ -17,7 +17,7 @@ window.onload = function () {
   gtag('config', 'AW-1064804888');
 
   gtag('config', 'AW-1064804888/BrgACMicxl8QmMTe-wM', {
-    'phone_conversion_number': '1-800-403-0688',
+    'phone_conversion_number': '800.403.0688',
     'phone_conversion_callback': callback
   });
 }

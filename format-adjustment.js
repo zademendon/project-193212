@@ -7,6 +7,6 @@ window.onload = function () {
     }
 
     gtag('config', 'AW-1064804888/BrgACMicxl8QmMTe-wM', {
-        'phone_conversion_number': '1-800-123-4567',
+        'phone_conversion_number': formatNum,
     });
 }
